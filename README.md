@@ -32,4 +32,4 @@ This research was conducted at the **Centre of Research for Research in Economic
 
 #### The rest of the research is available at: 
 
-* `thesis.pdf`: The full text of the dissertation. (./thesis.pdf)
+* `thesis.pdf`: full text of the dissertation, [link](./thesis.pdf).
